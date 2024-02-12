@@ -25,7 +25,7 @@ This project explores the potential use-cases of Generative AI, particularly GPT
 
 ## Generative AI Use-cases
 
-I've identified 10 applications of generative AI for SEO purposes. The [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) implements the first four of these use-cases (refer to "Generative AI Use-case 1" for examples). For the last six use-cases, I cover the ideas behind them, offering straightforward suggestions on how generative AI can be used to boost SEO strategies further.
+I've identified 10 applications of generative AI for SEO purposes. The [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) implements the first four of these use-cases (refer to "Generative AI Use-case 1", etc). For the last six use-cases, I cover the ideas behind them, offering straightforward suggestions on how generative AI can be used to boost SEO strategies further.
 
 Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) for these use-cases.
 
