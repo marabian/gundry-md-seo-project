@@ -30,16 +30,13 @@ I've identified nine applications of generative AI for SEO purposes. The noteboo
 
 1. Generative AI Use-case 1: **Group keywords**
 
-    * Grouping keywords is a common and effective practice in SEO. It helps in organizing your SEO strategy around thematic clusters or topics, improving content relevance, and enhancing user experience on your website. This approach aligns with search engines' focus on topic relevance and intent matching, potentially boosting your site's rankings for related searches. Grouping keywords can also streamline content creation and optimization efforts, making it easier to target multiple related keywords within a single piece of content or across a series of interconnected pages
 
-    * In the notebook, I used *OpenAI's* **gpt-3.5-turbo** modelto group these 100 keywords. I asked the model to identify natural clusters or groupings based on thematic similarity, relevance, or any other criteria it deems appropriate.
+2. Generative AI Use-case 2: **Sentiment Analysis and relevance**
 
 
-2. Generative AI Use-case 2: Sentiment Analysis and relevance
+3. Generative AI Use-case 3: **Analyzing Themes for SEO competitors**
 
-3. Generative AI Use-case 3: Analyzing Themes for SEO competitors
-
-4. Generative AI Use-case 4: Extract Industry Competitors from SERPs
+4. Generative AI Use-case 4: **Extract Industry Competitors from SERPs**
 
 5. Generative AI Use-case 5: Analyzing Microsites for Competitor analysis
 
