@@ -1,3 +1,6 @@
 # .gitignore content
 .env
+__pycache__/
+
+
 
