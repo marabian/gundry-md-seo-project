@@ -29,6 +29,7 @@ I've identified nine applications of generative AI for SEO purposes. The noteboo
 
 
 1. Generative AI Use-case 1: Group keywords
+
     fdsfds
 
 
