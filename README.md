@@ -29,13 +29,13 @@ I've identified 10 applications of generative AI for SEO purposes. The [notebook
 
 Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) for these use-cases.
 
-1. Generative AI Use-case 1: **Group keywords**
+1. Generative AI Use-case 1: **Group SEO Keywords by Similarity**
 
 
-2. Generative AI Use-case 2: **Sentiment Analysis and Relevance**
+2. Generative AI Use-case 2: **Perform Sentiment Analysis and Identify Relevance of SERP Data**
 
 
-3. Generative AI Use-case 3: **Analyzing Themes for SEO competitors**
+3. Generative AI Use-case 3: **Analyzing Themes for SEO Competitors using SERP Data**
 
 4. Generative AI Use-case 4: **Extract Industry Competitors from SERPs**
 
