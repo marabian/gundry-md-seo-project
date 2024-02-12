@@ -49,4 +49,4 @@ Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/
 
 9. Generative AI Use-case 9: Assist in A/B Testing
 
-9. Generative AI Use-case 10: Analyze Images on Websites
+10. Generative AI Use-case 10: Analyze Images on Websites
