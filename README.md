@@ -32,7 +32,7 @@ Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/
 1. Generative AI Use-case 1: **Group keywords**
 
 
-2. Generative AI Use-case 2: **Sentiment Analysis and relevance**
+2. Generative AI Use-case 2: **Sentiment Analysis and Relevance**
 
 
 3. Generative AI Use-case 3: **Analyzing Themes for SEO competitors**
@@ -41,7 +41,7 @@ Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/
 
 5. Generative AI Use-case 5: Analyzing Microsites for Competitor analysis
 
-6. Generative AI Use-case 6: Content Creation and Optimization¶
+6. Generative AI Use-case 6: Content Creation and Optimization
 
 7. Generative AI Use-case 7: Analyze Youtube Videos
 
