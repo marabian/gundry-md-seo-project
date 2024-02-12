@@ -25,7 +25,7 @@ This project explores the potential use-cases of Generative AI, particularly GPT
 
 ## Generative AI Use-cases
 
-I've identified nine applications of generative AI for SEO purposes. The [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) implements the first four of these use-cases (refer to "Generative AI Use-case 1" for examples). For the last five use-cases, I cover the ideas behind them, offering straightforward suggestions on how generative AI can be used to boost SEO strategies further.
+I've identified 10 applications of generative AI for SEO purposes. The [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) implements the first four of these use-cases (refer to "Generative AI Use-case 1" for examples). For the last six use-cases, I cover the ideas behind them, offering straightforward suggestions on how generative AI can be used to boost SEO strategies further.
 
 Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/master/gundry_md_seo_project.ipynb) for these use-cases.
 
@@ -39,7 +39,7 @@ Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/
 
 4. Generative AI Use-case 4: **Extract Industry Competitors from SERPs**
 
-5. Generative AI Use-case 5: Analyzing Microsites for Competitor analysis
+5. Generative AI Use-case 5: Analyzing Microsites for Competitor Analysis
 
 6. Generative AI Use-case 6: Content Creation and Optimization
 
@@ -48,3 +48,5 @@ Please see my [notebook](https://github.com/marabian/gundry-md-seo-project/blob/
 8. Generative AI Use-case 8: Analyze Website Carousel
 
 9. Generative AI Use-case 9: Assist in A/B Testing
+
+9. Generative AI Use-case 10: Analyze Images on Websites
