@@ -1,0 +1,7 @@
+requests
+pandas
+jupyterlab
+openai
+python-dotenv
+pyarrow
+python-dotenv
